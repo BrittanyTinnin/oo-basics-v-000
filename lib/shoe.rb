@@ -8,7 +8,8 @@ class Shoe
     @shoe = shoe
   end
 
-
+def cobble
+end
 
 
 end
